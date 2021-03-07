@@ -1,5 +1,5 @@
 
-# Projeto de estudo ReactJS **Minhas Serries** 
+# Projeto de estudo ReactJS **Minhas Series** 
 
 ### rodando 
 ```bash 
